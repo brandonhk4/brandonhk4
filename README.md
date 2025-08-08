@@ -13,7 +13,7 @@
 - 📚 I also personally like to read a lot, which means I always have a list of recommendations at hand, and I hobby ice skate as well!
 
 </br></br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,threejs,ts,c,cpp,py,pytorch,flutter,latex,linux,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,threejs,ts,java,c,cpp,py,pytorch,flutter,latex,linux,unreal)](https://skillicons.dev)
 
 </br></br></br>
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. ✨
