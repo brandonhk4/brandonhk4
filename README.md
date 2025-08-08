@@ -16,6 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,threejs,ts,c,cpp,py,pytorch,flutter,latex,linux,unreal)](https://skillicons.dev)
 
 </br></br></br>
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. ✨
 
 <p align="center"><a target="_blank" href="https://www.linkedin.com/in/brandon-kim-69205a27a/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=50></a></p>
