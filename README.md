@@ -9,13 +9,13 @@
 
 - 🔭 I'm currently a Junior at UT Austin, pursuing a double major in Computer Science and in Mathematics, and 🤫a minor in Korean.
 - 🚀 My goal is to use tech to let my ideas grow into functional projects and to have meaningful disucssions around where technology is or isn't helping us.
-- 🎨 My interests so far are in Full Stack Web/App Development, AI, and Computer Graphics.
+- 🎨 My primary interest is in Computer Graphics, but I have a passing curiosity in Web Development and AI too.
 - 📚 I also personally like to read a lot, which means I always have a list of recommendations at hand, and I hobby ice skate as well!
 
 </br></br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,threejs,ts,java,c,cpp,py,pytorch,flutter,latex,linux,unreal)](https://skillicons.dev)
 
 </br></br></br>
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. ✨
+Thanks for stopping by!✨
 
 <p align="center"><a target="_blank" href="https://www.linkedin.com/in/brandon-kim-69205a27a/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=50></a></p>
