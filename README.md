@@ -8,7 +8,7 @@
 <h2>👋🏻 About Me</h2>
 
 - 🔭 I'm currently a Junior at UT Austin, pursuing a double major in Computer Science and in Mathematics, and 🤫a minor in Korean.
-- 🚀 My goal is to use tech to let my ideas grow into functional projects and to have meaningful disucssions around where technology is or isn't helping us.
+- 🚀 My goal is to use tech to let my ideas grow into functional projects and to have meaningful discussions around where technology is or isn't helping us.
 - 🎨 My primary interest is in Computer Graphics, but I have a passing curiosity in Web Development and AI too.
 - 📚 I also personally like to read a lot, which means I always have a list of recommendations at hand, and I hobby ice skate as well!
 
